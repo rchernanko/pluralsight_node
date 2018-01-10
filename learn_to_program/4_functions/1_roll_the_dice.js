@@ -45,3 +45,8 @@ var value2 = 6 * Math.random();
 var roll2 = Math.ceil(value2);
 
 console.log(roll1 + roll2);
+
+/*
+Lots of documentation online of course:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+*/
